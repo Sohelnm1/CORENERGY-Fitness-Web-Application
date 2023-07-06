@@ -1,8 +1,47 @@
 # Coreenergyfitness
+1 : Screenshot 
+![Screenshot from 2023-06-24 11-59-14](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/9d1a2208-6f06-4f7b-bc77-142467eed0b8)
+
+2 : Screenshot 
+![Screenshot from 2023-06-24 12-00-46](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/3b3d87df-500e-4eee-be90-809eb3f70d3c)
+
+3 : Screenshot 
+![Screenshot from 2023-06-24 12-00-55](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/cc317732-33e7-4e92-953b-21353705ed36)
+
+4 : Screenshot 
+![Screenshot from 2023-06-24 12-01-25](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/fd9c46c7-d6b7-4f14-b7e3-d24f906ba021)
+
+5 : Screenshot 
+![Screenshot from 2023-06-24 12-03-07](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/a4973032-c9ea-4aff-b843-49181d1b2684)
+
+6 : Screenshot
+![Screenshot from 2023-06-24 12-03-23](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/5690f6f5-28f8-4db6-ab5a-91a273282327)
+
+7 : Screenshot
+![Screenshot from 2023-06-24 12-04-23](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/00c690d8-c153-4a30-94c6-30339d0b221f)
+
+8 : Screenshot
+![Screenshot from 2023-06-24 11-51-29](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/b9969da7-92f7-4b61-be1f-232592490408)
+
+9 : Screenshot
+![Screenshot from 2023-06-24 11-51-55](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/f24fff0c-a8cc-42dd-ad2c-926a0bc266e9)
+
+ 10: Screenshot
+![Screenshot from 2023-06-24 11-54-01](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/90d4a75f-0e7f-445a-8ba7-4888ea5d643d)
+
+11 : Screenshot
+![Screenshot from 2023-06-24 11-54-51](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/068ef449-cbde-44d9-a23b-477d3b459ca2)
+
+12 : Screenshot
+![Screenshot from 2023-06-24 11-55-31](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/68e2de2f-4dd7-4b1b-93e2-24cd57cabe70)
+
+13 : Screenshot
+![Screenshot from 2023-06-24 11-56-50](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/05b1860b-4642-4525-b3c0-788ddd6a7707)
+
+14 : Screenshot
+![Screenshot from 2023-06-24 11-57-35](https://github.com/Sohelnm1/CORENERGY-Fitness-Web-Application/assets/99077966/a8a46873-eaea-4621-be92-a4d026782ed6)
 
 
-
-## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
